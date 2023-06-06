@@ -15,6 +15,6 @@ Exercise 6: Control of Unicycle
   - 6.3 Obstacle Avoidance towards Waypoints
  
  Project:
-  - Unicycle robots go to consensus point without collision
+  - Unicycle robots go to consensus point without collision, demostration: https://youtu.be/PeYUevJT4no
   - Unicycle robots remain formation go to goal and avoid obstacles
   - SI follows moving reference goal and avoid obstacle
