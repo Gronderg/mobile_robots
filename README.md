@@ -14,4 +14,7 @@ Exercise 6: Control of Unicycle
   - 6.2 Trajectory Tracking (Position and Posture cases)
   - 6.3 Obstacle Avoidance towards Waypoints
  
- 
+ Project:
+  - Unicycle robots go to consensus point without collision
+  - Unicycle robots remain formation go to goal and avoid obstacles
+  - SI follows moving reference goal and avoid obstacle
